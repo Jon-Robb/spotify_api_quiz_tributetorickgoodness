@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TPFinalQuizVrai</string>
+    <string name="several_artists">"https://api.spotify.com/v1/artists?ids=4Z8W4fKeB5YxbusRsdQVPb%2C12Chz98pHFMPJEknJQMWvI%2C0L8ExT028jH3ddEcZwqJJ5%2C2Xoi1HPP0Wa6nyNSYyHxgI%2C7vYe47XsRmlUuaA9ZSC9fi%2C3k0HFz1mMtmsaWYsX75MiW%2C0C0XlULifJtAgn6ZNCW2eu"</string>
+</resources>
